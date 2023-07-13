@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meghanhachi777
+- 👋 Hi, I’m Meghan Marino @meghanhachi777
 - 👀 I’m interested in optimization modeling
 - 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on Blockchain
